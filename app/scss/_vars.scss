@@ -1,0 +1,17 @@
+//variables
+$text: #546e7a;
+$red: #e34c3c;
+$green: #8bc34a;
+$bg: #263238;
+$products-bgc: #f4f6f5;
+$grey: #f4f6f5;
+
+
+@mixin f500 {
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+@mixin f700 {
+    font-family: 'Roboto';
+    font-weight: 700;
+}

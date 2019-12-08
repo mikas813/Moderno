@@ -1,0 +1,33 @@
+{
+  "name": "start-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "g": "^2.0.1",
+    "gulp-rename": "^1.4.0",
+    "rangeslider.js": "^2.3.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-html": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "ion-rangeslider": "^2.3.0",
+    "magnific-popup": "^1.1.0",
+    "mixitup": "^3.3.1",
+    "node-sass": "^4.13.0",
+    "normalize.css": "^8.0.1",
+    "rateyo": "^2.3.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mykhailo Lasiichuk",
+  "license": "ISC",
+  "description": ""
+}
